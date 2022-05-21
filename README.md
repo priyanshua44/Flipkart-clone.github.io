@@ -1,6 +1,7 @@
 # Flipkart-clone.github.io
 This is a clone of Flipkart made using basics of html and css. 
 
+Url - https://priyanshua44.github.io/Flipkart-clone.github.io/
 
 I have not used javascript in making this clone of flipakrt, it is an absolute beginners e-commerce template made by me. 
 
