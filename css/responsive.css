@@ -1,0 +1,64 @@
+@media only screen and (max-width:1000px){
+
+    header{
+        height: 20vh;
+    }
+
+    nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo{
+        padding: 2vh 0 0 0;
+    }
+    .logo img{
+        height: 5vh;
+        width: 25vw;
+    }
+
+
+    nav ul li{
+        padding: 1vh 7vw 2vh 7vw;
+    }
+    nav ul li a{
+        font-size: larger;
+    }
+
+    .search input{
+        width: 80vw;
+    }
+
+    .search button{
+        width: 15vw;
+    }
+
+    .login button{
+        width: 15vw;
+        height: 5vh;
+        position: relative;
+        font-size: larger;
+        font-weight: 700;
+    }
+
+    .login{
+        width: 14vw;
+        position: relative;
+        bottom: 17vh;
+        left: 41vw;
+    }
+
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .container img{
+        height: 30vh;
+        width: 90vw;
+    }
+}
