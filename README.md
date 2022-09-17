@@ -23,8 +23,7 @@ Can also be used as a readymade template for e-commerce website for beginners.
     
 ## Live link for the project
 
-https://priyanshua44.github.io/Flipkart-clone.github.io/
-
+https://flipkartclone-pj.netlify.app
 
 ## Tech Stack Used
 
